@@ -2,7 +2,7 @@
 <!DOCTYPE article PUBLIC "-//OASIS//DTD DocBook XML V4.1.2//EN"
 "http://www.oasis-open.org/docbook/xml/4.1.2/docbookx.dtd" [
 ]>
-<article id="index">
+<article lang="en" id="index">
   <articleinfo>
     <title>Icon Naming Specification</title>
     <releaseinfo>Version 0.8.90</releaseinfo>
@@ -939,6 +939,12 @@ character accessory program.
 	    <entry>accessories-dictionary</entry>
 	    <entry>
 The icon used for the desktop's dictionary accessory program.
+	    </entry>
+	  </row>
+	  <row>
+	    <entry>accessories-screenshot-tool</entry>
+	    <entry>
+The icon used for the desktop's screenshot taking program.
 	    </entry>
 	  </row>
 	  <row>
